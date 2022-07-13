@@ -1,19 +1,50 @@
 body {
-  text-align: center;
-  background-color: rgba(137, 43, 226, 0.568);
+  
+  background-color: rgba(168, 13, 207, 0.116);
+}
+
+main {
+  background-color: rgba(97, 13, 207, 0.637);
+  border-radius: 30px;
+  margin:0 128px ;
+}
+img{
+  max-width: 500px;
+  max-height: 250px;
 }
 
 h1 {
-  color: rgb(78, 177, 179);
+  text-align: center;
+  color: rgba(97, 13, 207, 0.637);
   font-family: "Montserrat", sans-serif;
+  font-size: 72px;
 }
 
 h2 {
+  color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
-  font-size: 72px;
+  font-size: 36px;
   font-weight: bold;
+  margin-left: 20px;
 }
 
 p {
+  color: rgb(255, 255, 255);
   font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  margin:0 32px ;
+}
+
+span{
+  font-weight:bolder;
+}
+
+.yel{
+  color: yellow;
+}
+
+.yell{
+  background-color: rgba(245, 245, 92, 0.795);
+  color: black;
 }
