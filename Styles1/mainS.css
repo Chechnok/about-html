@@ -5,7 +5,7 @@ body {
 main {
   background-color: rgba(97, 13, 207, 0.637);
   border-radius: 30px;
-  margin: 0 128px;
+  margin: 0 256px;
 }
 img {
   max-width: 500px;
