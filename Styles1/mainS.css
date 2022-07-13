@@ -8,6 +8,11 @@ main {
   margin: 0 256px;
 }
 
+footer {
+  text-align: center;
+  margin-top: 56px;
+}
+
 img {
   max-width: 500px;
   max-height: 250px;
@@ -36,7 +41,7 @@ p {
   font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 24px;
-  margin: 0 32px;
+  margin: 16px 32px;
 }
 
 span {
@@ -44,8 +49,7 @@ span {
 }
 
 .yel {
-  color: yellow;
-  font-weight: 600;
+  padding-bottom: 56px;
 }
 
 .yell {
@@ -53,7 +57,7 @@ span {
   color: black;
 }
 
-#first{
+#first {
   color: rgb(255, 255, 255);
   font-family: "Fira Sans", sans-serif;
   font-family: "Montserrat", sans-serif;
@@ -61,4 +65,34 @@ span {
   font-weight: 600;
   margin-left: 20px;
   padding-top: 56px;
+}
+li {
+  color: yellow;
+  font-weight: 600;
+  font-family: "Fira Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-size: 24px;
+  margin: 16px 32px;
+  padding-left: 10px;
+  list-style: none;
+  border-left: 5px solid yellow;
+}
+
+footer p {
+  color: black;
+  margin-top: 30px;
+}
+
+footer a {
+  font-size: 24px;
+  color: black;
+  padding: 12px 20px;
+  border-radius: 8px;
+  background-color: rgba(245, 245, 92, 0.795);
+  text-decoration: none;
+
+}
+
+footer a:hover{
+  background-color: rgb(253, 253, 0);
 }
