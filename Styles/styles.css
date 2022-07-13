@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+  background-color: rgba(137, 43, 226, 0.568);
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(78, 177, 179);
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 72px;
+  font-weight: bold;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+}
